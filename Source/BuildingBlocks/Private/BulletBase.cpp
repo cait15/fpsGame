@@ -1,0 +1,2 @@
+// hallo henk if you're seening this SCRIPT just ignore it , the actual bullet class is the bullet projectile,
+// I was scared to delete this because idk it kept crashing the game so i left it here :D that was fun
